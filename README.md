@@ -1,17 +1,17 @@
 # oss-audit-24bcy10335
-A comprehensive open-source analysis of Python, encompassing a Linux-based examination and five shell scripts that illustrate fundamental system-level concepts.
+A collection of Bash shell scripts for Linux system administration, auditing, and network analysis, built using free and open-source tools on Ubuntu - primarily Python for scripting and automation, and Git for version control and collaboration via GitHub.
 # Shell Scripts Collection
 
 **Student Name:** Vibhor Gupta
 
 **Roll Number:** 24BCY10335
 
-A collection of Bash shell scripts for Linux system administration, auditing, and network analysis — built using **FOSS (Free and Open Source Software)** tools on **Ubuntu**.
+A collection of Bash shell scripts for Linux system administration, auditing, and network analysis - built using **FOSS (Free and Open Source Software)** tools on **Ubuntu**.
 
 ## Chosen Software
 
-- **Python** — Used for scripting and automation tasks.
-- **Git** — Used for version control and collaboration via GitHub.
+- **Python** - Used for scripting and automation tasks.
+- **Git** - Used for version control and collaboration via GitHub.
 
 ---
 
