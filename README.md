@@ -1,5 +1,5 @@
 # oss-audit-24bcy10335
-A structured audit of Python as an open-source software project, including Linux analysis and five shell scripts demonstrating core system concepts.
+A comprehensive open-source analysis of Python, encompassing a Linux-based examination and five shell scripts that illustrate fundamental system-level concepts.
 # Shell Scripts Collection
 
 **Student Name:** Vibhor Gupta
